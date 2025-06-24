@@ -1,44 +1,41 @@
-<h1 align="center">Hi 👋, I'm Harsh Kuhikar</h1>
-<h3 align="center">Frontend Developer | Full-Stack Developer | UI/UX Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Kuhikar;Frontend+Developer;Full-Stack+Developer;UI%2FUX+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshkuhikar&label=Profile%20views&color=0e75b6&style=flat" alt="harshkuhikar" />
+  <img src="https://komarev.com/ghpvc/?username=harshkuhikar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI Projects and Full Stack Platforms**
-- 🌱 I’m learning **Next.js, TailwindCSS, TypeScript, and Advanced Node.js**
-- 💼 I’m building products at my own **startup**
-- 🧠 Fun Fact: I love turning **Figma/PSD** into beautiful **responsive UIs**
+## 👨‍💻 About Me
+- 🔭 Currently building **AI chatbots**, **Matrimonial platforms**, and **custom frontend tools**
+- 🌱 Learning **Next.js**, **PostgreSQL**, and **Microservices**
+- 🧩 Passionate about turning **Figma/PSD to Pixel-perfect UI**
+- 💼 Founder of a growing **startup**
 - 📫 Reach me at: `scalezix@gmail.com`
 
 ---
 
-### 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-
----
-
-### 📊 GitHub Stats
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkuhikar&show_icons=true&theme=radical" alt="harshkuhikar" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkuhikar&theme=tokyonight" alt="harshkuhikar" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,bootstrap,git,github,figma,vscode" />
 </p>
 
 ---
 
-### ✨ Featured Projects
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshkuhikar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkuhikar&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkuhikar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Featured Projects
 - 🚀 [FShip - PDF Generator & Waybill Tracker](https://github.com/harshkuhikar/fship)
 - 🌐 [Matrimonial Website with Compatibility Checker](#)
 - 🧩 [Rashi/Nakshatra Finder Using Birth Details](#)
@@ -46,17 +43,38 @@
 
 ---
 
-### 🧠 Currently Learning
-- TypeScript
-- Next.js
-- PostgreSQL
-- Microservices with Node
+## 🌱 Currently Exploring
+- 🔷 TypeScript & Next.js
+- 🔷 PostgreSQL & Prisma
+- 🔷 Web Animations API & Framer Motion
+- 🔷 Scalable APIs & Microservices
 
 ---
 
-### 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/harshkuhikar)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/harsh_kuhikar_28/])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-green?style=flat)](#)
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-kuhikar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/harsh_kuhikar_28/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:scalezix@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://harsh-kuhikar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshkuhikar&theme=onedark&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
