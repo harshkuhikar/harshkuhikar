@@ -56,7 +56,7 @@
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/harshkuhikar)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/harshkuhikar)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/harshkuhikar](https://www.instagram.com/harsh_kuhikar_28/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-green?style=flat)](#)
 
 ---
