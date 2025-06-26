@@ -12,8 +12,8 @@
 - 🔭 Currently building **AI chatbots**, **Matrimonial platforms**, and **custom frontend tools**
 - 🌱 Learning **Next.js**, **PostgreSQL**, and **Microservices**
 - 🧩 Passionate about turning **Figma/PSD to Pixel-perfect UI**
-- 💼 Founder of a growing **startup**
-- 📫 Reach me at: `scalezix@gmail.com`
+- 💼 Wirking in a Startup Called **Scalezix**
+- 📫 Reach me at: `harshkuhikar68@gmail.com`
 
 ---
 
